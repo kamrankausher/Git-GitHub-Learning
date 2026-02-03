@@ -43,7 +43,7 @@ Git lives:
 - In a hidden `.git` directory
 
 When you run:
-```bash
+
 
 git init
 Git creates .git and starts tracking the project.
@@ -62,16 +62,16 @@ Use Git when:
 
 ## Key Benefits of Git
 
-Fast
+-Fast
 
-Offline support
+-Offline support
 
-Secure history
+-Secure history
 
-Powerful branching
+-Powerful branching
 
-Industry standard
+-Industry standard
 
-Summary
+## Summary
 
 Git is the backbone of modern development and the foundation for collaboration tools like GitHub.

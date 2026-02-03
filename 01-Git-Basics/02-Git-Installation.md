@@ -1,4 +1,4 @@
-```md
+
 # Git Installation
 
 ## Why Installation Is Required
@@ -28,7 +28,6 @@ Run the installer.
 
 ## Verify Installation
 Open Git Bash or VS Code terminal and run:
-```bash
 
 git --version
 

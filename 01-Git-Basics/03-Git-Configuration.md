@@ -1,4 +1,4 @@
-```md
+
 # Git Configuration
 
 ## Why Configuration Is Needed
@@ -11,20 +11,20 @@ This information appears in project history.
 ---
 
 ## Setting Username
-```bash
+
 git config --global user.name "Your Name"
 
-Setting Email
+### Setting Email
 git config --global user.email "your-email@example.com"
 
-Check Configuration
+### Check Configuration
 git config --list
 
-Local vs Global Config
+#### Local vs Global Config
 
-Global: applies to all projects
+-Global: applies to all projects
 
-Local: applies to one project
+-Local: applies to one project
 
 ## Summary
 

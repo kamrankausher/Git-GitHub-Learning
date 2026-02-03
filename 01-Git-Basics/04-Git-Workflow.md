@@ -1,7 +1,7 @@
 > This is **CRITICAL**.  
 > This explains **WHEN and HOW to push to GitHub**.
 
-```md
+
 # Git Workflow
 
 ## What Is Git Workflow?
@@ -24,35 +24,34 @@ Git workflow is the **step-by-step process** of saving and sharing your work.
 You create or modify files.
 
 ### Step 2: Check Status
-```bash
 git status
 
-Step 3: Add Changes
+### Step 3: Add Changes
 git add .
 
-Step 4: Commit Changes
+### Step 4: Commit Changes
 git commit -m "Describe what you changed"
 
-Step 5: Push to GitHub
+### Step 5: Push to GitHub
 git push
 
-WHEN to Push to GitHub
+## WHEN to Push to GitHub
 
-Push when:
+#### Push when:
 
-A logical change is complete
+-A logical change is complete
 
-Notes or features are stable
+-Notes or features are stable
 
-You want online backup
+-You want online backup
 
-DO NOT push:
+#### DO NOT push:
 
-Broken code
+-Broken code
 
-Half-written notes
+-Half-written notes
 
-Summary
+## Summary
 
 The correct order is:
 Edit → Add → Commit → Push
